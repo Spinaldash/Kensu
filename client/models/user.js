@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('poseidon')
+angular.module('kensu')
 .factory('User', function($rootScope, $http, nodeUrl){
   function User(){
   }
