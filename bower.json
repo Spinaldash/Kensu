@@ -1,0 +1,9 @@
+{
+  "name": "Kensu",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Spinaldash/Kensu",
+  "authors": [
+    "Michael Perez <blueavenger@gmail.com>"
+  ],
+  "license": "BSD"
+}
